@@ -29,7 +29,7 @@ TEST(Problem2_Test, FindMax_Test) {
     EXPECT_EQ(findMax(3, 1, 2), 3);
 }
 
-TEST(Problem2_Test, DigitName_Test) {
+TEST(Problem3_Test, DigitName_Test) {
     EXPECT_STRCASEEQ(digitName(-1).data(), "not a valid digit");
     EXPECT_STRCASEEQ(digitName(0).data(), "zero");
     EXPECT_STRCASEEQ(digitName(1).data(), "one");
@@ -47,6 +47,3 @@ TEST(Problem2_Test, DigitName_Test) {
 int main() {
     return RUN_ALL_TESTS();
 }
-
-
-
