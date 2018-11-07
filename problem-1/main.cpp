@@ -10,9 +10,3 @@ int findMax(int x, int y, int z) {
 
     return max;
 }
-
-//int main() {
-//    int x, y, z;
-//    cin >> x >> y >> z;
-//    cout << "Maximum: " << findMax(x, y, z) << endl;
-//}
