@@ -3,6 +3,8 @@ Solve problems 1-3 by editing the part marked by `\\ Write your code here` in th
 DO NOT edit any other code or files. DO NOT rename, add, remove, or move any file or folder.
 **Any change you make to other files may cause your submission to fail.**
 
+Do not use input/output (cin, cout, or cerr), just use the variable(s) passed to the function as your input, e.g. number, and assign your output to the variable defined in the function, e.g. name = "not a valid digit".
+
 ### Steps:
 1. Clone project to your computer
 2. Edit **main.cpp** file for each problem with your solution
